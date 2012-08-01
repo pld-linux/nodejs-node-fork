@@ -2,7 +2,7 @@
 Summary:	Look-alike nodejs 0.6.x child_process.fork() function module
 Name:		nodejs-%{pkg}
 Version:	0.4.2
-Release:	5
+Release:	6
 License:	MIT
 Group:		Development/Libraries
 URL:		https://github.com/stolsma/node-fork
