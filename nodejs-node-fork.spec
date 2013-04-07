@@ -1,5 +1,5 @@
 %define		pkg	node-fork
-Summary:	Look-alike nodejs 0.6.x child_process.fork() function module
+Summary:	Backported child_process.fork() function module from nodejs 5.x/6.x for nodejs 4.x
 Name:		nodejs-%{pkg}
 Version:	0.4.2
 Release:	6
